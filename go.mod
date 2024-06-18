@@ -1,4 +1,4 @@
-module github.com/hbstack/theme
+module github.com/Roran600/hbstatck
 
 go 1.19
 
