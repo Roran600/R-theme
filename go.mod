@@ -44,6 +44,7 @@ require (
 	github.com/hbstack/giscus v0.1.1 // indirect
 	github.com/hbstack/hb v0.12.3 // indirect
 	github.com/hbstack/header v0.14.6 // indirect
+	github.com/hbstack/header/modules/banner v0.7.1 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.26 // indirect
 	github.com/hbstack/header/modules/search v0.1.37 // indirect
 	github.com/hbstack/header/modules/socials v0.2.1 // indirect
@@ -64,6 +65,7 @@ require (
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 // indirect
 	github.com/hbstack/toc-scrollspy v0.1.0 // indirect
 	github.com/henrygd/bigger-picture v1.1.17 // indirect
+	github.com/hugomods/aos v0.1.0 // indirect
 	github.com/hugomods/base v0.7.2 // indirect
 	github.com/hugomods/bootstrap v0.22.2 // indirect
 	github.com/hugomods/code-block-panel v0.7.0 // indirect

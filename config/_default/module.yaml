@@ -4,6 +4,10 @@
 
 # The order of module is very important, precedence from top to bottom.
 imports:
+  # header banner  
+  - path: github.com/hbstack/header/modules/banner 
+  - path: github.com/hugomods/aos 
+ 
   # gallery modules.
   - path: github.com/hbstack/gallery
   - path: github.com/hbstack/gallery/modules/breadcrumb
