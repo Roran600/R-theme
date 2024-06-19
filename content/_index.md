@@ -10,7 +10,7 @@ nav_icon:
 header:
   banner:
     alignment: center
-    img: /images/banners/home.svg
+    img: banners/home.svg
     title: |
       HB Framework
       { .text-uppercase .mb-5 data-aos="fade-up" }
