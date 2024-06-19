@@ -1,6 +1,6 @@
 ---
-title: "HB - Hugo Bootstrap Framework"
-description: Build fast, responsive sites with Hugo Bootstrap Framework
+title: "Roran60 Blog"
+description: 
 date: 2022-09-24T18:24:31+08:00
 draft: false
 layout: landing
@@ -12,12 +12,9 @@ header:
     alignment: center
     img: banners/home.svg
     title: |
-      HB Framework
-      { .text-uppercase .mb-5 data-aos="fade-up" }
+        Roran60 Blog
     description: |
-      Build **fast**, **modern**, **responsive** and **modular** static sites with Hugo and Bootstrap
-      { .mb-5 data-aos="fade-up" data-aos-delay="200" }
-
+      Hardwér - Softwér - Opensource
       {{< html/div
         data-aos="fade-up"
         data-aos-delay="300"
