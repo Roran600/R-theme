@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Wiki
 menu:
   main:
     weight: 1
