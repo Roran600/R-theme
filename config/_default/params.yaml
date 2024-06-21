@@ -12,7 +12,7 @@ hb:
 
   header:
     brand: Roran60 Blog # the brand name, leave it empty to use site's title.
-    logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
+    #logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       github: hbstack
@@ -57,7 +57,7 @@ hb:
       main_sections: # leave it empty to include all regular pages.
         - docs
         - blog
-        - tutorials
+        - tutorials: https://thetumultuousunicornofdarkness.github.io/CPU-X
     giscus:
       repo: hbstack/theme
       repo_id: R_kgDOJP3qtA
@@ -78,7 +78,7 @@ hb:
 
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
-    icon: images/logo.png # use logo as favicon.
+    icon: favicon.png # use logo as favicon.
 
 # PWA settings, see https://hugomods.com/en/docs/pwa/#site-parameters.
 pwa:

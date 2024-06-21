@@ -9456,9 +9456,6 @@ html {
   height: 32px;
   width: auto; }
 
-.hb-header-logo {
-  background: #712cf9; }
-
 @media (min-width: 992px) {
   .hb-header-submenus[data-columns="2"] {
     -moz-column-count: 2;
