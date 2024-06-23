@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured Image on Roran60 Blog</title>
+    <link>http://localhost:1313/sk/tags/featured-image/</link>
+    <description>Recent content in Featured Image on Roran60 Blog</description>
+    <generator>Hugo</generator>
+    <language>sk</language>
+    <copyright>Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 04 Feb 2022 20:26:48 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/sk/tags/featured-image/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Post with an Featured Image</title>
+      <link>http://localhost:1313/sk/blog/2022/02/example-post-with-an-featured-image/</link>
+      <pubDate>Fri, 04 Feb 2022 20:26:48 +0800</pubDate>
+      <guid>http://localhost:1313/sk/blog/2022/02/example-post-with-an-featured-image/</guid>
+      <description>&lt;p&gt;The example post with an featured image.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

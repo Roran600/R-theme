@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roran60 Blog</title>
+    <link>http://localhost:1313/sk/</link>
+    <description>Recent content on Roran60 Blog</description>
+    <generator>Hugo</generator>
+    <language>sk</language>
+    <copyright>Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 06 Apr 2023 13:50:51 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/sk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gallery Homepage Example</title>
+      <link>http://localhost:1313/sk/examples/gallery/</link>
+      <pubDate>Thu, 06 Apr 2023 13:50:51 +0800</pubDate>
+      <guid>http://localhost:1313/sk/examples/gallery/</guid>
+      <description>The example of gallery homepage layout.</description>
+    </item>
+    <item>
+      <title>Landing Page Example</title>
+      <link>http://localhost:1313/sk/examples/landing/</link>
+      <pubDate>Thu, 06 Apr 2023 01:44:59 +0800</pubDate>
+      <guid>http://localhost:1313/sk/examples/landing/</guid>
+      <description>Landing Page Example This theme offers a simple landing page layout which consist of three parts: header, body and footer, the body is the content itself.&#xA;How to Use it? Specify the layout as landing on the front matter.&#xA;TOML YAML JSON 1layout = &amp;#39;landing&amp;#39; 1layout: landing 1{ 2 &amp;#34;layout&amp;#34;: &amp;#34;landing&amp;#34; 3} And then writing the content with Markdown and shortcodes.</description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/sk/blog/2023/03/tutorial/</link>
+      <pubDate>Fri, 31 Mar 2023 11:47:31 +0800</pubDate>
+      <guid>http://localhost:1313/sk/blog/2023/03/tutorial/</guid>
+      <description>&lt;p&gt;A simple tutorial that offers samples and code snippets show how to create rich content, please refer to the &lt;a&#xA;  href=&#34;https://hbstack.dev/en/&#34;&#xA;  &#xA;  target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;documentation&lt;/a&gt; for more usage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Textures</title>
+      <link>http://localhost:1313/sk/gallery/textures/</link>
+      <pubDate>Sun, 01 Jan 2023 16:16:05 +0800</pubDate>
+      <guid>http://localhost:1313/sk/gallery/textures/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Install on Ubuntu</title>
+      <link>http://localhost:1313/sk/docs/installation/linux/ubuntu/</link>
+      <pubDate>Sun, 16 Oct 2022 22:42:23 +0800</pubDate>
+      <guid>http://localhost:1313/sk/docs/installation/linux/ubuntu/</guid>
+      <description>This guide show you how to install on Ubuntu.</description>
+    </item>
+    <item>
+      <title>Featured Post without Image</title>
+      <link>http://localhost:1313/sk/blog/2022/09/featured-post-without-image/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/blog/2022/09/featured-post-without-image/</guid>
+      <description>A sample for showing how carousel handle featured posts that without images.</description>
+    </item>
+    <item>
+      <title>Install on Windows</title>
+      <link>http://localhost:1313/sk/docs/installation/windows/</link>
+      <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
+      <guid>http://localhost:1313/sk/docs/installation/windows/</guid>
+      <description>This guide show you how to install on Windows.</description>
+    </item>
+    <item>
+      <title>Install on Arch Linux</title>
+      <link>http://localhost:1313/sk/docs/installation/linux/archlinux/</link>
+      <pubDate>Sun, 04 Sep 2022 22:42:23 +0800</pubDate>
+      <guid>http://localhost:1313/sk/docs/installation/linux/archlinux/</guid>
+      <description>This guide show you how to install on Arch Linux.</description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/sk/docs/introduction/</link>
+      <pubDate>Sun, 06 Mar 2022 22:42:23 +0800</pubDate>
+      <guid>http://localhost:1313/sk/docs/introduction/</guid>
+      <description>&lt;p&gt;A fast, responsive and feature-rich Hugo theme for blog and documentation site.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Example Post with an Featured Image</title>
+      <link>http://localhost:1313/sk/blog/2022/02/example-post-with-an-featured-image/</link>
+      <pubDate>Fri, 04 Feb 2022 20:26:48 +0800</pubDate>
+      <guid>http://localhost:1313/sk/blog/2022/02/example-post-with-an-featured-image/</guid>
+      <description>&lt;p&gt;The example post with an featured image.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dogs</title>
+      <link>http://localhost:1313/sk/gallery/dogs/</link>
+      <pubDate>Sat, 01 Jan 2022 16:16:05 +0800</pubDate>
+      <guid>http://localhost:1313/sk/gallery/dogs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rainbow</title>
+      <link>http://localhost:1313/sk/gallery/rainbow/</link>
+      <pubDate>Sat, 01 Jan 2022 16:16:05 +0800</pubDate>
+      <guid>http://localhost:1313/sk/gallery/rainbow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sunrise</title>
+      <link>http://localhost:1313/sk/gallery/sunrise/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/sk/gallery/sunrise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2021</title>
+      <link>http://localhost:1313/sk/archives/2021/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2021/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2022</title>
+      <link>http://localhost:1313/sk/archives/2022/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2022/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2023</title>
+      <link>http://localhost:1313/sk/archives/2023/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2023/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HugoMods Authors</title>
+      <link>http://localhost:1313/sk/authors/hugomods/_index.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/authors/hugomods/_index.en/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HugoMods Authors</title>
+      <link>http://localhost:1313/sk/authors/hugomods/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/authors/hugomods/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>安装到 Linux</title>
+      <link>http://localhost:1313/sk/docs/installation/linux/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/docs/installation/linux/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Razon Yang</title>
+      <link>http://localhost:1313/sk/authors/razonyang/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/authors/razonyang/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>一月</title>
+      <link>http://localhost:1313/sk/archives/2021/01/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2021/01/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>一月</title>
+      <link>http://localhost:1313/sk/archives/2022/01/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2022/01/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>一月</title>
+      <link>http://localhost:1313/sk/archives/2023/01/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2023/01/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>七月</title>
+      <link>http://localhost:1313/sk/archives/2021/07/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2021/07/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>七月</title>
+      <link>http://localhost:1313/sk/archives/2022/07/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2022/07/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>七月</title>
+      <link>http://localhost:1313/sk/archives/2023/07/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2023/07/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>三月</title>
+      <link>http://localhost:1313/sk/archives/2021/03/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2021/03/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>三月</title>
+      <link>http://localhost:1313/sk/archives/2022/03/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2022/03/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>三月</title>
+      <link>http://localhost:1313/sk/archives/2023/03/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2023/03/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>九月</title>
+      <link>http://localhost:1313/sk/archives/2021/09/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2021/09/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>九月</title>
+      <link>http://localhost:1313/sk/archives/2022/09/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2022/09/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>九月</title>
+      <link>http://localhost:1313/sk/archives/2023/09/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2023/09/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>二月</title>
+      <link>http://localhost:1313/sk/archives/2021/02/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2021/02/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>二月</title>
+      <link>http://localhost:1313/sk/archives/2022/02/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2022/02/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>二月</title>
+      <link>http://localhost:1313/sk/archives/2023/02/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2023/02/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>五月</title>
+      <link>http://localhost:1313/sk/archives/2021/05/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2021/05/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>五月</title>
+      <link>http://localhost:1313/sk/archives/2022/05/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2022/05/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>五月</title>
+      <link>http://localhost:1313/sk/archives/2023/05/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2023/05/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>八月</title>
+      <link>http://localhost:1313/sk/archives/2021/08/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2021/08/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>八月</title>
+      <link>http://localhost:1313/sk/archives/2022/08/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2022/08/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>八月</title>
+      <link>http://localhost:1313/sk/archives/2023/08/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2023/08/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>六月</title>
+      <link>http://localhost:1313/sk/archives/2021/06/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2021/06/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>六月</title>
+      <link>http://localhost:1313/sk/archives/2022/06/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2022/06/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>六月</title>
+      <link>http://localhost:1313/sk/archives/2023/06/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2023/06/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>十一月</title>
+      <link>http://localhost:1313/sk/archives/2021/11/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2021/11/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>十一月</title>
+      <link>http://localhost:1313/sk/archives/2022/11/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2022/11/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>十一月</title>
+      <link>http://localhost:1313/sk/archives/2023/11/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2023/11/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>十二月</title>
+      <link>http://localhost:1313/sk/archives/2021/12/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2021/12/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>十二月</title>
+      <link>http://localhost:1313/sk/archives/2022/12/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2022/12/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>十二月</title>
+      <link>http://localhost:1313/sk/archives/2023/12/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2023/12/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>十月</title>
+      <link>http://localhost:1313/sk/archives/2021/10/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2021/10/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>十月</title>
+      <link>http://localhost:1313/sk/archives/2022/10/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2022/10/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>十月</title>
+      <link>http://localhost:1313/sk/archives/2023/10/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2023/10/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>四月</title>
+      <link>http://localhost:1313/sk/archives/2021/04/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2021/04/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>四月</title>
+      <link>http://localhost:1313/sk/archives/2022/04/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2022/04/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>四月</title>
+      <link>http://localhost:1313/sk/archives/2023/04/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/archives/2023/04/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>安装指南</title>
+      <link>http://localhost:1313/sk/docs/installation/_index.zh-hans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sk/docs/installation/_index.zh-hans/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
