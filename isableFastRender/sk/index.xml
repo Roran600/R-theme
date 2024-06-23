@@ -7,22 +7,8 @@
     <generator>Hugo</generator>
     <language>sk</language>
     <copyright>Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 06 Apr 2023 13:50:51 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2023 11:47:31 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/sk/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gallery Homepage Example</title>
-      <link>http://localhost:1313/sk/examples/gallery/</link>
-      <pubDate>Thu, 06 Apr 2023 13:50:51 +0800</pubDate>
-      <guid>http://localhost:1313/sk/examples/gallery/</guid>
-      <description>The example of gallery homepage layout.</description>
-    </item>
-    <item>
-      <title>Landing Page Example</title>
-      <link>http://localhost:1313/sk/examples/landing/</link>
-      <pubDate>Thu, 06 Apr 2023 01:44:59 +0800</pubDate>
-      <guid>http://localhost:1313/sk/examples/landing/</guid>
-      <description>Landing Page Example This theme offers a simple landing page layout which consist of three parts: header, body and footer, the body is the content itself.&#xA;How to Use it? Specify the layout as landing on the front matter.&#xA;TOML YAML JSON 1layout = &amp;#39;landing&amp;#39; 1layout: landing 1{ 2 &amp;#34;layout&amp;#34;: &amp;#34;landing&amp;#34; 3} And then writing the content with Markdown and shortcodes.</description>
-    </item>
     <item>
       <title>Tutorial</title>
       <link>http://localhost:1313/sk/blog/2023/03/tutorial/</link>

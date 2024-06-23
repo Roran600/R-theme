@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Examples on Roran60 Blog</title>
+    <title>O mne on Roran60 Blog</title>
     <link>http://localhost:1313/sk/examples/</link>
-    <description>Recent content in Examples on Roran60 Blog</description>
+    <description>Recent content in O mne on Roran60 Blog</description>
     <generator>Hugo</generator>
     <language>sk</language>
     <copyright>Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved.</copyright>
