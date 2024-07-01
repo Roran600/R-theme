@@ -15,18 +15,22 @@ hb:
     #logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
-      github: hbstack
+      # github: hbstack
       # twitter: razonyang
       rss: true
-      mastodon: https://techhub.social/@hbstack
+      # mastodon: https://techhub.social/@hbstack 
+      instagram: roran60  
+      discord: YKzEGps3
   footer:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
-      _color: true # when false, remove the color of social icons.
-      github: hbstack
-      twitter: razonyang
+      _color: false # when false, remove the color of social icons.
+      # github: hbstack
+      # twitter: razonyang
       rss: true
-      mastodon: https://techhub.social/@hbstack
+      # mastodon: https://techhub.social/@hbstack 
+      instagram: roran60  
+      discord: YKzEGps3
   terms:
     # the paginate for categories, tags, series list pages.
     paginate: 12
