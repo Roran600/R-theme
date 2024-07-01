@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/sk/examples/</loc>
-    <lastmod>2023-04-06T13:50:51+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/sk/examples/gallery/</loc>
-    <lastmod>2023-04-06T13:50:51+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/sk/examples/landing/</loc>
-    <lastmod>2023-04-06T01:44:59+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/sk/authors/</loc>
     <lastmod>2023-03-31T11:47:31+08:00</lastmod>
   </url><url>
@@ -207,6 +198,8 @@
     <loc>http://localhost:1313/sk/archives/2022/11/</loc>
   </url><url>
     <loc>http://localhost:1313/sk/archives/2023/11/</loc>
+  </url><url>
+    <loc>http://localhost:1313/sk/omne/</loc>
   </url><url>
     <loc>http://localhost:1313/sk/archives/2021/10/</loc>
   </url><url>
