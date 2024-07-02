@@ -9,4 +9,4 @@ menu:
         name: book
 ---
 
-The example of Docs layout.
+Vítajte na mojej Wiki. V prípade nejakých nejasností, chýb prosím píšte na Discord alebo Instagram.
