@@ -33,4 +33,6 @@ Toto je test podzložky s wiki témov.
 
 <!--more-->
 
-test
+test 
+
+![test](/docs/softwér/test/test.png)
