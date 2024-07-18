@@ -28,9 +28,9 @@ imports:
   # - path: github.com/hbstack/header/themes/classic
 
   # blog sidebar
-  - path: github.com/hbstack/blog/modules/sidebar/profile
-  - path: github.com/hbstack/blog/modules/sidebar/posts
-  - path: github.com/hbstack/blog/modules/sidebar/taxonomies
+  #- path: github.com/hbstack/blog/modules/sidebar/profile
+  #- path: github.com/hbstack/blog/modules/sidebar/posts
+  #- path: github.com/hbstack/blog/modules/sidebar/taxonomies
 
   # blog comments engine
   - path: github.com/hbstack/blog/modules/giscus
