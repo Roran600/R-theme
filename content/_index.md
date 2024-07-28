@@ -1,6 +1,6 @@
 ---
 title: "Roran60 Blog"
-description: 
+description: Build fast, responsive sites with Hugo Bootstrap Framework
 date: 2022-09-24T18:24:31+08:00
 draft: false
 layout: landing
@@ -12,9 +12,12 @@ header:
     alignment: center
     img: banners/home.svg
     title: |
-        Roran60 Blog
+      Roran60 Blog
+      { .text-uppercase .mb-5 data-aos="fade-up" }
     description: |
-      Hardwér - Softwér - Opensource
+      **Hardwér** - **Softwér** - **Opensource**
+      { .mb-5 data-aos="fade-up" data-aos-delay="200" }
+
       {{< html/div
         data-aos="fade-up"
         data-aos-delay="300"
@@ -38,3 +41,21 @@ header:
 #         vendor: bootstrap
 #         name: house
 ---
+
+## Sponsors {#sponsors .text-center .mb-5}
+
+
+
+## Features {#features .text-center .mb-5}
+
+{{< bs/icon-grid data="en.features" linkText="" alignment="center" >}}
+
+## Latest Articles {.text-center .mb-5}
+
+{{< bs/article-cards linkText="" >}}
+
+## Who's Using HB Framework? {#sites .text-center .mb-4 }
+
+[How to add my sites?]({{< relref "/blog" >}})
+{ .lead .mb-3 .text-body .text-center }
+

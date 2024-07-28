@@ -35,7 +35,11 @@ build:
 markup:
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: true 
+    parser:
+      attribute:
+        block: true
+        title: true
   highlight:
     noClasses: false
     lineNos: true
