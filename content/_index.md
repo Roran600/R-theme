@@ -42,20 +42,13 @@ header:
 #         name: house
 ---
 
-## Sponsors {#sponsors .text-center .mb-5}
 
+## Novinky {#features .text-center .mb-5}
 
+{{< bs/icon-grid data="features" linkText="" alignment="center" >}}
 
-## Features {#features .text-center .mb-5}
+## Najnovšie články {.text-center .mb-5}
 
-{{< bs/icon-grid data="en.features" linkText="" alignment="center" >}}
+{{< bs/article-cards linkText="" alignment="center" >}}
 
-## Latest Articles {.text-center .mb-5}
-
-{{< bs/article-cards linkText="" >}}
-
-## Who's Using HB Framework? {#sites .text-center .mb-4 }
-
-[How to add my sites?]({{< relref "/blog" >}})
-{ .lead .mb-3 .text-body .text-center }
 
