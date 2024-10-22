@@ -47,8 +47,10 @@ header:
 
 {{< bs/icon-grid data="features" linkText="" alignment="center" >}}
 
-## Najnovšie články {.text-center .mb-5}
+## Najnovšie články {#features .text-center .mb-5}
 
-{{< bs/article-cards linkText="" alignment="center" >}}
+{{< bs/article-cards  limit=3 linkText="" alignment="center" >}} 
+
+
 
 

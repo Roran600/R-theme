@@ -1,26 +1,29 @@
-[fast]
+[searx]
 weight = 1
-title = "Fast"
+title = "Searx"
+url = "discord"
 description = "Google PageSpeed Insights scored perfect 💯 of four metrics on mobile and desktop."
-[fast.icon]
-name = "speedometer"
-color = "green"
+[searx.icon]
+name = "magnifying-glass"
+vendor = "fas"
+color = "#6495ED"
 
-[responsive]
+[discord]
 weight = 2
-title = "Responsive"
-url = "bootstrap"
+title = "Discord"
+url = "discord"
 description = "Mobile first, built on top of the Bootstrap v5.3."
-[responsive.icon]
-name = "bootstrap"
-color = "#7952B3"
+[discord.icon]
+name = "discord"
+vendor = "fab"
+color = "#7289da"
 
-[foss]
+[twitter]
 weight = 3
-title = "FOSS"
+title = "Twitter"
 url = "https://github.com/hugomods"
 description = "Free and open source software, code licensed **MIT**."
-[foss.icon]
-name = "code"
-vendor = "fas"
-color = "green"
+[twitter.icon]
+name = "twitter"
+vendor = "fab"
+color = "#1DA1F2"
