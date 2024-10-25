@@ -1,5 +1,4 @@
-baseURL: https://theme.hbstack.dev/
-title: Roran60 Blog 
+baseURL: https://roran60.com/blog/
 # Copyright, the {year} is the placeholder of this year.
 copyright: "Copyright © 2022-{year} Roran60   All Rights Reserved."
 defaultContentLanguage: sk

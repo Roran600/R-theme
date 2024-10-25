@@ -1,8 +1,8 @@
 [searx]
 weight = 1
 title = "Searx"
-url = "discord"
-description = "Google PageSpeed Insights scored perfect 💯 of four metrics on mobile and desktop."
+url = "https://search.roran60.com/"
+description = "Privátny metavyhľadávač ktorý združuje výsledky vyhladávania s viacerých služieb."
 [searx.icon]
 name = "magnifying-glass"
 vendor = "fas"
@@ -11,8 +11,8 @@ color = "#6495ED"
 [discord]
 weight = 2
 title = "Discord"
-url = "discord"
-description = "Mobile first, built on top of the Bootstrap v5.3."
+url = "https://discord.gg/fkpa9e3"
+description = "Potrebuješ poradiť ? Chceš si pokecať ? Tak prídi na náš discord. "
 [discord.icon]
 name = "discord"
 vendor = "fab"
@@ -21,8 +21,8 @@ color = "#7289da"
 [twitter]
 weight = 3
 title = "Twitter"
-url = "https://github.com/hugomods"
-description = "Free and open source software, code licensed **MIT**."
+url = "https://x.com/Roran60"
+description = "Nezabudni sledovať môj Twitter."
 [twitter.icon]
 name = "twitter"
 vendor = "fab"

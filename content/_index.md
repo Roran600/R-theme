@@ -45,7 +45,7 @@ header:
 
 ## Novinky {#features .text-center .mb-5}
 
-{{< bs/icon-grid data="features" linkText="" alignment="center" >}}
+{{< bs/icon-grid data="features" linkText="" linkText="Zisti viac" alignment="center" >}}
 
 ## Najnovšie články {#features .text-center .mb-5}
 
