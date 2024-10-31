@@ -1,49 +1,61 @@
-<div class="container-fluid">
-
-
+<div class="container-fluid d-flex justify-content-center my-4">
   <div class="card" style="width: 18rem;">
-  <h5 class="card-header">Informácie</h5>
-  <div class="card-body">
-
-    <h5 class="card-title">Info 1</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-
-    <h5 class="card-title">Info 2</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-
-    <h5 class="card-title">Info 3</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-
+    <h5 class="card-header">Informácie</h5>
+    <div class="card-body">
+      <h5 class="card-title">Info 1</h5>
+      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+      <a href="#" class="btn btn-primary">Go somewhere</a>
+      <div class="my-4"></div> <!-- Medzera medzi containermi -->
+      <h5 class="card-title">Info 2</h5>
+      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+      <a href="#" class="btn btn-primary">Go somewhere</a> 
+      <div class="my-4"></div> <!-- Medzera medzi containermi -->
+      <h5 class="card-title">Info 3</h5>
+      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+      <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>  
   </div>
 </div>
 
-
-</div>
-
-
-
-<div class="container-fluid">
-
-
-
-
-  <div class="card" style="width: 18rem;">
-  <div class="card-header">
-    Blog
+<div class="container-fluid d-flex justify-content-center py-4">
+  <div class="card shadow-lg" style="width: 20rem;">
+    <div class="card-header text-center bg-dark text-white">
+      Blog odkazy
+    </div>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item d-flex">
+        <!-- Prvý stĺpec -->
+        <div class="col-6 d-flex justify-content-center align-items-center pe-1">
+          <a class="btn btn-primary btn-sm w-100 d-flex justify-content-center align-items-center" href="/blog/series/" role="button">
+            <i class="bi bi-collection me-2"></i>
+            Series
+          </a>
+        </div>
+        <!-- Druhý stĺpec -->
+        <div class="col-6 d-flex justify-content-center align-items-center ps-1">
+          <a class="btn btn-primary btn-sm w-100 d-flex justify-content-center align-items-center" href="/blog/categories/" role="button">
+            <i class="bi bi-grid me-2"></i>
+            Categories
+          </a>
+        </div>
+      </li>
+      <li class="list-group-item d-flex">
+        <!-- Prvý stĺpec -->
+        <div class="col-6 d-flex justify-content-center align-items-center pe-1">
+          <a class="btn btn-primary btn-sm w-100 d-flex justify-content-center align-items-center" href="/blog/tags/" role="button">
+            <i class="bi bi-tags me-2"></i>
+            Tags
+          </a>
+        </div>
+        <!-- Druhý stĺpec -->
+        <div class="col-6 d-flex justify-content-center align-items-center ps-1">
+          <a class="btn btn-primary btn-sm w-100 d-flex justify-content-center align-items-center" href="/blog/archives/" role="button">
+            <i class="bi bi-archive me-2"></i>
+            Archives
+          </a>
+        </div>
+      </li>
+    </ul>
   </div>
-  <ul class="list-group list-group-flush">
-    <li class="list-group-item"><a class="btn btn-primary" href="#" role="button">Series</a></li>
-    <li class="list-group-item"><a class="btn btn-primary" href="#" role="button">Categories</a></li>
-    <li class="list-group-item"><a class="btn btn-primary" href="#" role="button">Tags</a></li>
-     <li class="list-group-item"><a class="btn btn-primary" href="#" role="button">Archives</a></li>
-  </ul>
 </div>
 
-
-
-
-
-</div>
