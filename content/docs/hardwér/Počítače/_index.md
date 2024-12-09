@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Počítače
 # linkTitle:
 date: 
 draft: false
@@ -8,8 +8,8 @@ noindex: false
 comments: false
 nav_weight: 1000
 nav_icon:
-   vendor: bootstrap
-   name: dot
+   vendor: fas
+   name: computer
    # color: '#e24d0e'
 series:
   - Docs
@@ -29,10 +29,7 @@ images:
 #         color: '#e24d0e'
 ---
 
-Toto je test podzložky s wiki témov.
-
+Tu budú zdokumentované všetky moje počítačové zostavy.
 <!--more-->
 
-test 
 
-![test](/docs/softwér/test/test.png)
