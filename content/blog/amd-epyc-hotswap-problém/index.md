@@ -22,7 +22,7 @@ Na serverových platformách AMD EPYC (Rome aj Milan) nefunguje hot-swap zo SATA
 
 <!--more-->
 
-#### Aktivácia funkcie SATA Hot-Swap     
+### Aktivácia funkcie SATA Hot-Swap     
 
 Nasledujúce parametre zavádzania jadra umožňujú hot swap:
     • ahci.mobile_lpm_policy=0 
